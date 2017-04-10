@@ -1,1 +1,1 @@
-# MyFirstWebsite Skeleton
+# MyFirstWebsite
